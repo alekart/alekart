@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=alekart&show_icons=true&bg_color=00000000&hide_title=true"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekart&layout=compact&bg_color=0000000">
