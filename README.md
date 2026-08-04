@@ -10,9 +10,3 @@ engaging while ensuring long-term maintainability.
 <p align="center">
   • Angular • TypeScript • JavaScript • VueJS 3* • Webpack • SCSS • HTML/CSS • NodeJS • PHP •
 </p>
-
-#
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alekart&show_icons=true&bg_color=00000000&hide_title=true"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekart&layout=compact&bg_color=0000000">  
-</p>
